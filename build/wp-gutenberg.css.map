@@ -1,0 +1,1 @@
+{"version":3,"file":"wp-gutenberg.css","mappings":";;;AAAA;IACI,yBAAyB;IACzB,yBAAyB;IACzB,kBAAkB;IAClB,aAAa;AACjB,C","sources":["webpack://wp-gutenburg/./assets/index.css"],"sourcesContent":[".makeUpYourBlockTypeName {\n    background-color: #b8c9f8;\n    border: 1px solid #94a9e2;\n    border-radius: 5px;\n    padding: 20px;\n}"],"names":[],"sourceRoot":""}
